@@ -159,7 +159,7 @@ p {
     .main-btn.main-btn-2:hover {
       background-color: #0044ff;
       color: #fff;
-      border-color: #00e#0044fff; }
+      border-color: #0044ff; }
 
 /*===== All Section Title Style =====*/
 .section-title .title {
@@ -237,7 +237,7 @@ p {
       height: 100%;
       border-style: solid;
       /* Spinner Color */
-      border-color: #00e1ff #00e1ff #ddd;
+      border-color: #0044ff #0044ff #ddd;
       border-radius: 50%;
       border-width: 6px; }
     .preloader .loader_34 .ytp-spinner-left .ytp-spinner-circle {
@@ -1231,7 +1231,7 @@ p.form-message.success, p.form-message.error {
   height: 50px;
   line-height: 46px;
   border-radius: 50%;
-  border: 2px solid ##0044ff;
+  border: 2px solid #0044ff;
   background-color: #0044ff;
   text-align: center;
   z-index: 99;
